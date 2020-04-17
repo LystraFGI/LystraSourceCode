@@ -26,7 +26,7 @@ a = 9.4000712009755716E+03
 b = 3.2624206787165413E+03
 c = 7.4006662440556579E+02
 
-#scale denominator
+#scale denominator 
 scale10458bp = a * (np.exp(10458/b) -1) + c
 
 #compute frames with given timeframe and timestep
