@@ -1,6 +1,8 @@
 '''
 Computes ancient elevation models based on present day DEM and total occured land uplift derived from
 current land uplift rates and shoreline isobases by scaling the data with formula of exponential relaxation.
+
+viljami.perheentupa@nls.fi
 '''
 
 from osgeo import gdal
