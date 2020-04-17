@@ -1,6 +1,8 @@
 '''
 Converts GeoTIFFs to RGB images with elevation dependent colour scale,
 creates relief shading and blends them by multiplication.
+
+viljami.perheentupa@nls.fi
 '''
 
 import os
